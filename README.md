@@ -12,6 +12,7 @@ This camera will be shaped like a small book that can opened in order to store y
 - Photographing and adding the date on the bottom right of the picture
 - Sending the images to my phone through WiFi connectivity
 - Access to a summer bucket list through the display screen
+- Compact design and ability to store small items
 
 ## Components 
 
